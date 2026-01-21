@@ -1,8 +1,6 @@
-# 🤖 Investalo Crypto Deep Learning Bot
+# 🤖 Crypto Deep Learning Bot
 
-![Vorschau der Signale](preview.png)
-
-Ein autonomer Trading-Bot...# 🤖 Crypto Deep Learning Bot
+![Vorschau der Signale](preview.jpg)
 
 Ein autonomer Trading-Bot, der neuronale Netze nutzt, um Preisbewegungen am Kryptomarkt vorherzusagen.
 
