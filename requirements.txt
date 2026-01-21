@@ -1,0 +1,7 @@
+tensorflow
+pandas
+numpy
+requests
+mplfinance
+matplotlib
+python-dotenv
