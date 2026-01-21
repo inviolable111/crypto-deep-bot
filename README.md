@@ -1,17 +1,17 @@
 # 🤖 Crypto Deep Learning Bot
 
-![Vorschau der Signale](preview.jpg)
+![Signal Preview](preview.jpg)
 
-Ein autonomer Trading-Bot, der neuronale Netze nutzt, um Preisbewegungen am Kryptomarkt vorherzusagen.
+An autonomous trading bot that utilizes neural networks to predict price movements in the crypto market.
 
 ## 🚀 Features
-- **Deep Learning:** Nutzt TensorFlow/Keras für Trendvorhersagen.
-- **Automatisches Re-Training:** Das Modell lernt alle 50 Zyklen aus neuen Marktdaten.
-- **Telegram-Analyse:** Sendet Signale inkl. Candlestick-Charts direkt aufs Handy.
-- **Multi-Asset:** Unterstützt BTC, ETH, SOL, XRP und TRX.
+- **Deep Learning:** Leverages TensorFlow/Keras for trend forecasting.
+- **Automated Re-Training:** The model learns from new market data every 50 cycles to adapt to changing trends.
+- **Telegram Analysis:** Sends real-time signals including candlestick charts directly to your phone.
+- **Multi-Asset Support:** Compatible with BTC, ETH, SOL, XRP, and TRX.
 
 ## 🛠 Installation
-1. Repository klonen
-2. `pip install -r requirements.txt`
-3. Eigene API-Keys in einer `.env` Datei hinterlegen
-4. Starten mit `python test_deep.py`
+1. Clone the repository.
+2. Run `pip install -r requirements.txt`.
+3. Store your API keys in a `.env` file.
+4. Launch the bot using `python test_deep.py`.
