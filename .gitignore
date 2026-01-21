@@ -1,0 +1,17 @@
+# Private Zugangsdaten & Keys
+.env
+daten.env
+
+# KI-Modelle (zu groß für GitHub)
+*.keras
+*.h5
+
+# Automatisch generierte Charts
+chart_*.png
+*.jpg
+
+# Python Cache & Logs
+__pycache__/
+*.json
+venv/
+.venv/
